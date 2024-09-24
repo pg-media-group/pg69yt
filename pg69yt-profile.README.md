@@ -12,9 +12,9 @@
 
 Hey there! I'm pg69yt, a passionate self-taught web developer. I love bringing my ideas to life through elegant projects and paying close attention to the user experience, architecture, and code quality.
 
-## ⚡ Technologies and Skills
+## ⚡ Skills
 
-I work with a variety of technologies and have expertise in:
+I have experience in:
 
 - Front-end: HTML, CSS, JavaScript, React
 - Back-end: Python, Django
