@@ -1,11 +1,16 @@
  body {
   background-image: url("./pg_media_grouptm_Desktop_Wallpaper_20240824_001145_0000.png");
-  background-attachment: fixed;
-  background-position: 50% 50%;
-  color: white;
-  background-color: black;
-  row-gap: 50px;
-  
+    background-attachment: fixed;
+    background-position: absolute;
+    color: white;
+    background-color: black;
+    row-gap: 50px;
+    background-height: 100%;
+    background-width: 100%;
+    overflow: hidden;
+    top: 0;
+    z-index: -1;
+    
 }
 
 
