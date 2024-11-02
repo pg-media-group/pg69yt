@@ -1,6 +1,7 @@
  body {
   background-image: url("./pg_media_grouptm_Desktop_Wallpaper_20240824_001145_0000.png");
     background-attachment: fixed;
+    background-repeat:no-repeat;
     background-position: absolute;
     color: white;
     background-color: black;
